@@ -1,4 +1,4 @@
-URL Security Analyzer
+** URL Security Analyzer
 
 Overview
 
@@ -16,15 +16,14 @@ Shortened URLs
 
 Installation
 
-git clone https://github.com/your-username/url-security-analyzer.git
-cd url-security-analyzer
-pip install -r requirements.txt
+git clone https://github.com/varnicm/Quishing-dataset
+cd Quishing-dataset
 
 Usage
 
 Run the script and enter a URL:
 
-python url_analyzer.py
+python Quishing.ipynb
 
 Example
 
